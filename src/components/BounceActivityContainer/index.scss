@@ -4,6 +4,11 @@
   }
 }
 
+th.actions-cell {
+  padding-right: 0;
+  text-align: right;
+}
+
 .csv-button-col {
   text-align: right;
 }
@@ -11,10 +16,6 @@
 .page-tab {
   height: 90%;
   margin-bottom: 1rem;
-}
-
-.create-rule-button {
-  white-space: nowrap;
 }
 
 .bounce-rule-loader {
